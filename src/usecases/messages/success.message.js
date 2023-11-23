@@ -32,7 +32,7 @@ class Success {
     }
 
     delete(){
-        const message = "Otim, sua tarefa foi atualizada"
+        const message = "Otimo, sua tarefa foi deletada corretamente"
 
         const MessageAlert = MessageModel(message, this.successColor)
 
